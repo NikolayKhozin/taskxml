@@ -1,0 +1,22 @@
+<object>
+    <property>
+        <key>Firstname</key>
+        <string>Nikolay</string>
+    </property>
+    <property>
+        <key>Lastname</key>
+        <string>Khozin</string>
+    </property>
+    <property>
+        <key>Age</key>
+        <number>39</number>
+    </property>
+    <property>
+        <key>number of pets</key>
+        <number>2</number>
+    </property>
+    <property>
+        <key>Expected salary in dollars</key>
+        <number>2000</number>
+    </property>
+    </object>
